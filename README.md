@@ -1,6 +1,6 @@
 # SuperpolatorRemote
 
-![Superpolator Icon](https://github.com/LettError/SuperpolatorRemote/blob/master/SuperpolatorRemote.roboFontExt/lib/icon_128x128.png)
+![Superpolator](SuperpolatorRemote.gif)
 
 * Tell Superpolator to update when a UFO is saved.
 * Cope the glyphmames from the current Space Center to all open Superpolator documents.
