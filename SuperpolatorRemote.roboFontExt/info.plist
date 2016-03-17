@@ -32,7 +32,7 @@
 	<key>com.robofontmechanic.Mechanic</key>
 	<dict>
 	  <key>repository</key>
-	  <string>username/my-extension</string>
+	  <string>LettError/SuperpolatorRemote</string>
 	  <key>summary</key>
 	  <string>Tell Superpolator to update when saving a UFO.</string>
 	</dict>
