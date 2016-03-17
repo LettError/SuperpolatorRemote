@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addToMenu</key>
+	<array>
+		<dict>
+			<key>path</key>
+			<string>superpolatorRemote.py</string>
+			<key>preferredName</key>
+			<string>superpolatorRemote</string>
+			<key>shortKey</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>developer</key>
+	<string>LettError</string>
+	<key>developerURL</key>
+	<string>http://letterror.com</string>
+	<key>html</key>
+	<false/>
+	<key>launchAtStartUp</key>
+	<integer>1</integer>
+	<key>mainScript</key>
+	<string>superpolatorRemote.py</string>
+	<key>name</key>
+	<string>SuperpolatorRemote</string>
+	<key>timeStamp</key>
+	<real>1458165704.4625311</real>
+	<key>version</key>
+	<string>1.0</string>
+	<key>com.robofontmechanic.Mechanic</key>
+	<dict>
+	  <key>repository</key>
+	  <string>username/my-extension</string>
+	  <key>summary</key>
+	  <string>Tell Superpolator to update when saving a UFO.</string>
+	</dict>
+</dict>
+</plist>
