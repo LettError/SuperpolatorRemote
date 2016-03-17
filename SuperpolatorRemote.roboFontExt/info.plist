@@ -20,7 +20,7 @@
 	<key>html</key>
 	<false/>
 	<key>launchAtStartUp</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>mainScript</key>
 	<string>superpolatorRemote.py</string>
 	<key>name</key>
@@ -28,7 +28,7 @@
 	<key>timeStamp</key>
 	<real>1458165704.4625311</real>
 	<key>version</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>com.robofontmechanic.Mechanic</key>
 	<dict>
 	  <key>repository</key>
